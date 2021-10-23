@@ -24,6 +24,19 @@
   width: 150px;
 }
 
+.Navigation {
+  display: flex;
+}
+.Navigation__item {
+  cursor: pointer;
+  margin-right: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.Navigation__item:last-child {
+  margin-right: 0;
+}
+
 /*
  * Стили компонента SearchForm
  */
@@ -39,8 +52,8 @@
 
 .SearchForm__button {
   display: inline-block;
-  width: 48px;
-  height: 48px;
+  width: 40px;
+  height: 40px;
   border: 0;
   background-image: url("https://image.flaticon.com/icons/svg/149/149852.svg");
   background-size: 40%;
@@ -72,7 +85,7 @@
   display: inline-block;
   width: 100%;
   font: inherit;
-  font-size: 20px;
+  font-size: 18px;
   border: none;
   outline: none;
   padding-left: 4px;
@@ -81,7 +94,7 @@
 
 .SearchForm__input::placeholder {
   font: inherit;
-  font-size: 18px;
+  font-size: 16px;
 }
 
 /*
