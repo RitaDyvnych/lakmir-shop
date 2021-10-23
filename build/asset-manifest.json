@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/lakmir-shop/static/css/main.8f4155bd.chunk.css",
+    "main.js": "/lakmir-shop/static/js/main.f7489982.chunk.js",
+    "main.js.map": "/lakmir-shop/static/js/main.f7489982.chunk.js.map",
+    "runtime-main.js": "/lakmir-shop/static/js/runtime-main.480e61b9.js",
+    "runtime-main.js.map": "/lakmir-shop/static/js/runtime-main.480e61b9.js.map",
+    "static/js/2.11221546.chunk.js": "/lakmir-shop/static/js/2.11221546.chunk.js",
+    "static/js/2.11221546.chunk.js.map": "/lakmir-shop/static/js/2.11221546.chunk.js.map",
+    "index.html": "/lakmir-shop/index.html",
+    "static/css/main.8f4155bd.chunk.css.map": "/lakmir-shop/static/css/main.8f4155bd.chunk.css.map",
+    "static/js/2.11221546.chunk.js.LICENSE.txt": "/lakmir-shop/static/js/2.11221546.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.480e61b9.js",
+    "static/js/2.11221546.chunk.js",
+    "static/css/main.8f4155bd.chunk.css",
+    "static/js/main.f7489982.chunk.js"
+  ]
+}
