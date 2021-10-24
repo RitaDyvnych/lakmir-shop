@@ -1,0 +1,15 @@
+.Title {
+  text-align: center;
+  font-style: italic;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  font-family: Railway;
+  font-size: 32px;
+}
+.Text {
+  margin-bottom: 15px;
+  font-size: 18px;
+}
+.TextContainer {
+  display: flex;
+}
