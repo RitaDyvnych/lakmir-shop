@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/lakmir-shop/static/css/main.9e798a42.chunk.css",
-    "main.js": "/lakmir-shop/static/js/main.5d1a7261.chunk.js",
-    "main.js.map": "/lakmir-shop/static/js/main.5d1a7261.chunk.js.map",
+    "main.css": "/lakmir-shop/static/css/main.ae0bb2b5.chunk.css",
+    "main.js": "/lakmir-shop/static/js/main.b99d7de1.chunk.js",
+    "main.js.map": "/lakmir-shop/static/js/main.b99d7de1.chunk.js.map",
     "runtime-main.js": "/lakmir-shop/static/js/runtime-main.480e61b9.js",
     "runtime-main.js.map": "/lakmir-shop/static/js/runtime-main.480e61b9.js.map",
-    "static/js/2.86e878c1.chunk.js": "/lakmir-shop/static/js/2.86e878c1.chunk.js",
-    "static/js/2.86e878c1.chunk.js.map": "/lakmir-shop/static/js/2.86e878c1.chunk.js.map",
+    "static/js/2.0f9428eb.chunk.js": "/lakmir-shop/static/js/2.0f9428eb.chunk.js",
+    "static/js/2.0f9428eb.chunk.js.map": "/lakmir-shop/static/js/2.0f9428eb.chunk.js.map",
     "index.html": "/lakmir-shop/index.html",
-    "static/css/main.9e798a42.chunk.css.map": "/lakmir-shop/static/css/main.9e798a42.chunk.css.map",
-    "static/js/2.86e878c1.chunk.js.LICENSE.txt": "/lakmir-shop/static/js/2.86e878c1.chunk.js.LICENSE.txt",
+    "static/css/main.ae0bb2b5.chunk.css.map": "/lakmir-shop/static/css/main.ae0bb2b5.chunk.css.map",
+    "static/js/2.0f9428eb.chunk.js.LICENSE.txt": "/lakmir-shop/static/js/2.0f9428eb.chunk.js.LICENSE.txt",
     "static/media/dog1.f0989452.jpeg": "/lakmir-shop/static/media/dog1.f0989452.jpeg",
     "static/media/dog5.0ff8764e.jpeg": "/lakmir-shop/static/media/dog5.0ff8764e.jpeg",
     "static/media/logo.515b37ec.png": "/lakmir-shop/static/media/logo.515b37ec.png"
   },
   "entrypoints": [
     "static/js/runtime-main.480e61b9.js",
-    "static/js/2.86e878c1.chunk.js",
-    "static/css/main.9e798a42.chunk.css",
-    "static/js/main.5d1a7261.chunk.js"
+    "static/js/2.0f9428eb.chunk.js",
+    "static/css/main.ae0bb2b5.chunk.css",
+    "static/js/main.b99d7de1.chunk.js"
   ]
 }
