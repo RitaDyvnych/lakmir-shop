@@ -1,4 +1,4 @@
-import { useState } from "react";
+// import { useState } from "react";
 import PartnerDog from "../../images/dog5.jpeg";
 import style from './partner.module.css';
 

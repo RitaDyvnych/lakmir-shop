@@ -47,3 +47,15 @@ img {
   margin-left: 60px;
   margin-right: 60px;
 }
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.App-loader {
+  width: 50px;
+  margin: 0 auto;
+}
