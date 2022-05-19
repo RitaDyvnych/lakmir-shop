@@ -1,0 +1,98 @@
+[
+  {
+    "id": "XWaQXcbk0",
+    "name": "Хрустики куриные",
+    "description": "Протеин - 80-90%; Ca - 0,5-0,6%; P - 0,4-05,%; Влажность - 12%.",
+    "image": "./products/956784-lakmir-lakomstvo-dlya-sobak-hrustiki-kurinye-500x500.jpeg",
+    "price": 36,
+    "weigth": 100
+  },
+  {
+    "id": "XWaQXcbk1",
+    "name": "Сушеное говяжье вымя",
+    "description": "Протеин - 80-90%; Ca - 0,5-0,6%; P - 0,4-0,5%; Влажность - 12%.",
+    "image": "./products/976841-lakmir-lakomstvo-dlya-sobak-sushenoe-govyazhe-vymya-800x800.jpeg",
+    "price": 39,
+    "weigth": 100
+  },
+  {
+    "id": "XWaQXcbk2",
+    "name": "Супер ассорти",
+    "description": "Протеин - 80-90%; Ca - 0,5-0,6%; P - 0,4-0,5%; Влажность - 12%.",
+    "image": "./products/987525-lakmir-lakomstvo-dlya-sobak-super-assorti-800x800.jpeg",
+    "price": 96,
+    "weigth": 200
+  },
+  {
+    "id": "XWaQXcbk3",
+    "name": "Хрустики куриные",
+    "description": "Протеин - 80-90%; Ca - 0,5-0,6%; P - 0,4-05,%; Влажность - 12%.",
+    "image": "./products/956784-lakmir-lakomstvo-dlya-sobak-hrustiki-kurinye-500x500.jpeg",
+    "price": 36,
+    "weigth": 100
+  },
+  {
+    "id": "XWaQXcbk4",
+    "name": "Сушеное говяжье вымя",
+    "description": "Протеин - 80-90%; Ca - 0,5-0,6%; P - 0,4-0,5%; Влажность - 12%.",
+    "image": "./products/976841-lakmir-lakomstvo-dlya-sobak-sushenoe-govyazhe-vymya-800x800.jpeg",
+    "price": 39,
+    "weigth": 100
+  },
+  {
+    "id": "XWaQXcbk5",
+    "name": "Супер ассорти",
+    "description": "Протеин - 80-90%; Ca - 0,5-0,6%; P - 0,4-0,5%; Влажность - 12%.",
+    "image": "./products/987525-lakmir-lakomstvo-dlya-sobak-super-assorti-800x800.jpeg",
+    "price": 96,
+    "weigth": 200
+  },
+  {
+    "id": "XWaQXcbk6",
+    "name": "Хрустики куриные",
+    "description": "Протеин - 80-90%; Ca - 0,5-0,6%; P - 0,4-05,%; Влажность - 12%.",
+    "image": "./products/956784-lakmir-lakomstvo-dlya-sobak-hrustiki-kurinye-500x500.jpeg",
+    "price": 36,
+    "weigth": 100
+  },
+  {
+    "id": "XWaQXcbk7",
+    "name": "Сушеное говяжье вымя",
+    "description": "Протеин - 80-90%; Ca - 0,5-0,6%; P - 0,4-0,5%; Влажность - 12%.",
+    "image": "./products/976841-lakmir-lakomstvo-dlya-sobak-sushenoe-govyazhe-vymya-800x800.jpeg",
+    "price": 39,
+    "weigth": 100
+  },
+  {
+    "id": "XWaQXcbk8",
+    "name": "Супер ассорти",
+    "description": "Протеин - 80-90%; Ca - 0,5-0,6%; P - 0,4-0,5%; Влажность - 12%.",
+    "image": "./products/987525-lakmir-lakomstvo-dlya-sobak-super-assorti-800x800.jpeg",
+    "price": 96,
+    "weigth": 200
+  },
+  {
+    "id": "XWaQXcbk9",
+    "name": "Хрустики куриные",
+    "description": "Протеин - 80-90%; Ca - 0,5-0,6%; P - 0,4-05,%; Влажность - 12%.",
+    "image": "./products/956784-lakmir-lakomstvo-dlya-sobak-hrustiki-kurinye-500x500.jpeg",
+    "price": 36,
+    "weigth": 100
+  },
+  {
+    "id": "XWaQXcbk10",
+    "name": "Сушеное говяжье вымя",
+    "description": "Протеин - 80-90%; Ca - 0,5-0,6%; P - 0,4-0,5%; Влажность - 12%.",
+    "image": "./products/976841-lakmir-lakomstvo-dlya-sobak-sushenoe-govyazhe-vymya-800x800.jpeg",
+    "price": 39,
+    "weigth": 100
+  },
+  {
+    "id": "XWaQXcbk11",
+    "name": "Супер ассорти",
+    "description": "Протеин - 80-90%; Ca - 0,5-0,6%; P - 0,4-0,5%; Влажность - 12%.",
+    "image": "./products/987525-lakmir-lakomstvo-dlya-sobak-super-assorti-800x800.jpeg",
+    "price": 96,
+    "weigth": 200
+  }
+]

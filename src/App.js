@@ -12,13 +12,13 @@ import MainPage from './page/Main/Main';
 // const AboutPage = lazy(() => import("./page/About/AboutUs"));
 // const PartnerPage = lazy(() => import("./page/Partner/Partner"));
 
-export default function App() {
+function App() {
 
   return (
     <>
       <Header/>
       {/* <Suspense fallback={<div className="App-loader">
-        <Oval ariaLabel="loading-indicator"
+            <Oval ariaLabel="loading-indicator"
               height={50}
               width={50}
               strokeWidth={3}
@@ -30,7 +30,9 @@ export default function App() {
             <Route path="/about_us" element={<AboutPage />} />
             <Route path="/partner" element={<PartnerPage />} />
           </Routes>
-        {/*  </Suspense> */}
+      {/* </Suspense> */}
     </>
   );
 }
+
+export default App;
