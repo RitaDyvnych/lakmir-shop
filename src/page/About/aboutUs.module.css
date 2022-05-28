@@ -1,5 +1,5 @@
 .container {
-  background-image: linear-gradient(white, var(--light-green)), url('../../images/bcg_about.jpeg');
+  background-image: linear-gradient(white, transparent, var(--light-green), white), url('../../images/bcg_about.jpeg');
   background-size: cover;
 }
 .wrap {
@@ -11,14 +11,30 @@
 .content_wrap {
   display: flex;
   justify-content: space-between;
+  align-items: flex-end;
 }
 .about_wrap {
   display: flex;
   align-items: start;
-  justify-content: left;
+  justify-content: right;
+}
+.text {
+  margin-bottom: 15px;
+  font-size: 18px;
 }
 .card {
   width: 700px;
+  background-color: var(--accent-color-2);
+  color: #000;
+  border-radius: 0 16px 16px 16px;
+  -webkit-box-shadow: 0px 1px 2px 1px rgb(0 0 0 / 21%);
+  -moz-box-shadow: 0px 1px 2px 1px rgba(0, 0, 0, 0.21);
+  box-shadow: 0px 1px 2px 1px rgb(0 0 0 / 15%);
+  padding: 16px;
+}
+.card_deckr {
+  width: 500px;
+  font-size: 16px;
   background-color: var(--accent-color-2);
   color: #000;
   border-radius: 0 16px 16px 16px;
@@ -40,13 +56,15 @@
   font-family: Railway;
   font-size: 48px;
 }
-.text {
-  margin-bottom: 15px;
-  font-size: 18px;
+.text_accent {
+  /* font-style: italic; */
+  color: var(--text-color-green);
+  font-weight: 700;
 }
 .textContainer {
   display: flex;
 }
 .dog_img {
   width: 400px;
+  height: 500px;
 }

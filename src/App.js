@@ -1,12 +1,15 @@
 import "./App.css";
 import Header from './components/header/Header';
-// import Contact from "./components/Contact";
+import Footer from './components/footer/Footer';
 import { Oval } from 'react-loader-spinner';
 import { lazy, Suspense } from "react";
 import { Route, Routes } from "react-router-dom";
 import AboutPage from './page/About/AboutUs';
 import PartnerPage from './page/Partner/Partner';
 import MainPage from './page/Main/Main';
+import { useState, useEffect } from 'react';
+import BackToTopBtn from './components/buttonToTop/ButtonToTop';
+// import { Component } from "react";
 
 // const MainPage = lazy(() => import("./page/Main/Main"));
 // const AboutPage = lazy(() => import("./page/About/AboutUs"));
@@ -14,6 +17,19 @@ import MainPage from './page/Main/Main';
 
 function App() {
 
+// const [type, setType] = useState('main');
+// let prevType = 'main';
+
+//  const typeToggle = (e) => {
+//   prevType = type;
+//   setType(`${e.target.title}`);
+//   console.log(e.target.title);
+//   console.log(prevType);
+//  }
+//  useEffect(() => {
+//   setType(prevType);
+//  }, [prevType]);
+ 
   return (
     <>
       <Header/>
@@ -31,6 +47,8 @@ function App() {
             <Route path="/partner" element={<PartnerPage />} />
           </Routes>
       {/* </Suspense> */}
+      <BackToTopBtn/>
+      <Footer/>
     </>
   );
 }

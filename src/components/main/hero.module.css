@@ -32,6 +32,7 @@
 .hero_list{
   margin-top: 20px;
   margin-left: 700px;
+  margin-bottom: 20px;
   font-weight: 500;
   font-size: 1.2em;
   color: var(--text-color-green);
@@ -49,7 +50,6 @@
   border-radius: 10px;
   color: #ffffff;
   font-weight: 700;
-  margin-top: 20px;
   margin-left: 720px;
 }
 .hero_btn:hover {

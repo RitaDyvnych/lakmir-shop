@@ -1,7 +1,8 @@
 import s from './hero.module.css'
 import dog from '../../images/dog_main_page.png'
 import sprite from '../../images/sprite.svg'
-import { useState } from 'react';
+import { useState } from 'react'
+import { Link } from 'react-router-dom'
 
 
 export default function Hero() {
@@ -61,7 +62,8 @@ export default function Hero() {
             </svg>
             Бесплатная доставка</li>
         </ul>
-        <button type="button" className={s.hero_btn} onClick={handleBtnClick}>Стать партнером</button>
+        <Link to="/partner" className={s.hero_btn}>Стать партнером</Link>
+        {/* <button type="button" className={s.hero_btn} onClick={handleBtnClick}>Стать партнером</button> */}
       </div>
     </div>
     
