@@ -86,12 +86,12 @@ export default function Header() {
                     <use href={sprite + "#icon-mobile"} alt="Контакты" />
             </svg>
             Контакты</div>
-          <div className={s.Navigation__item} title='shopping-cart'>
+          <NavLink to="/cart" className={s.Navigation__item} title='shopping-cart'>
             <svg className={s.icon_link}>
                     <use href={sprite + "#icon-shopping-cart"} alt="Корзина" />
             </svg>
             Корзина
-          </div>
+          </NavLink>
         </nav>
       </header>
   );

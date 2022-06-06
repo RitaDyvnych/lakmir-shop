@@ -7,28 +7,15 @@ import { Route, Routes } from "react-router-dom";
 import AboutPage from './page/About/AboutUs';
 import PartnerPage from './page/Partner/Partner';
 import MainPage from './page/Main/Main';
+import CartPage from './page/Shopping-cart/ShoppingCart';
 import { useState, useEffect } from 'react';
 import BackToTopBtn from './components/buttonToTop/ButtonToTop';
-// import { Component } from "react";
 
 // const MainPage = lazy(() => import("./page/Main/Main"));
 // const AboutPage = lazy(() => import("./page/About/AboutUs"));
 // const PartnerPage = lazy(() => import("./page/Partner/Partner"));
 
 function App() {
-
-// const [type, setType] = useState('main');
-// let prevType = 'main';
-
-//  const typeToggle = (e) => {
-//   prevType = type;
-//   setType(`${e.target.title}`);
-//   console.log(e.target.title);
-//   console.log(prevType);
-//  }
-//  useEffect(() => {
-//   setType(prevType);
-//  }, [prevType]);
  
   return (
     <>
@@ -45,6 +32,7 @@ function App() {
             <Route path='/' element={<MainPage />}/>
             <Route path="/about_us" element={<AboutPage />} />
             <Route path="/partner" element={<PartnerPage />} />
+            <Route path="/cart" element={<CartPage />} />
           </Routes>
       {/* </Suspense> */}
       <BackToTopBtn/>
